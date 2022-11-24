@@ -131,3 +131,4 @@ dmypy.json
 *.zip
 input/censored_tweets
 input/plusone_control_tweets
+.DS_Store
