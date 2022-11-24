@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 *.zip
-censored_tweets
-plusone_control_tweets
+input/censored_tweets
+input/plusone_control_tweets
