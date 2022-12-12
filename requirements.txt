@@ -1,3 +1,5 @@
 pandas
 numpy
 vaderSentiment
+gensim==3.8.2
+transvec
