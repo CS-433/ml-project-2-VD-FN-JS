@@ -137,3 +137,6 @@ data/
 
 output/
 Output/
+*.bin
+input/clean_with_w2v.json
+input/cleaned_raw_text.json
