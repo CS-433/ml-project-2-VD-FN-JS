@@ -134,3 +134,5 @@ input/plusone_control_tweets
 .DS_Store
 Data/ 
 data/
+Output/
+output/
