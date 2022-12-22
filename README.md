@@ -5,11 +5,11 @@ Because of the restrictions and terms of service of the Twitter data, the origin
 
 However, all the intermediary data are present and are organized as follows: 
 
-1)Processed: Contains CSV files of the processed data, organized by language. 
+1) Processed: Contains CSV files of the processed data, organized by language. 
 
-2)Results: Contains results accumulated across the development of the algorithms, all in TXT file format. 
+2) Results: Contains results accumulated across the development of the algorithms, all in TXT file format. 
 
-3)Vectors: Contains all the vector representations in different features spaces (see paper) used in the project, organized by language.  
+3) Vectors: Contains all the vector representations in different features spaces (see paper) used in the project, organized by language.  
 
 The code based is organized as follows: 
 
