@@ -13,8 +13,8 @@ However, all the intermediary data are present and are organized as follows:
 
 The code based is organized as follows: 
 
-1) The clean_notebook is a single Jupyter notebook that processes all the data and run all the classical machine learning (see Paper) algorithms. 
+1) The clean_notebook file is a single Jupyter notebook that processes all the data and run all the classical machine learning (see Paper) algorithms. 
 
-2) Notebook_transformer is a single Jupyter notebook that runs all the transformer-based models. It was developed and used in the Google Colab environment to make use of NVIDIA k80 GPU, and we strongly recommend using it in this capacity (see Appendix A for run times of models in the submitted paper). The notebook simply needs is a CSV file (e.g: Processed/English/csv_processed.csv file) that should be uploaded at the root of the Colab environment (change the dir_path variable accordingly). 
+2) The Notebook_transformers file is a single Jupyter notebook that runs all the transformer-based models. It was developed and used in the Google Colab environment to make use of NVIDIA k80 GPU, and we strongly recommend using it in this capacity (see Appendix A for run times of models in the submitted paper). The notebook simply needs is a CSV file (e.g: Processed/English/csv_processed.csv file) that should be uploaded at the root of the Colab environment (change the dir_path variable accordingly). 
 
 For all and any other questions not address, please feel free to reach out to vincent [dot] dandenault [at] epfl [dot] ch. 
